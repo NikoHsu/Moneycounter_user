@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+# 个人数据
+data/raw/
+data/app_data.json
+data/bank_data.json
+# IDE
+.idea/
+*.iml
+*.workspace.xml
+# 环境
+.env
+conda_env.yaml

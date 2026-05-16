@@ -1,0 +1,14 @@
+{
+  "_说明": "公积金月缴数据。月缴计入公积金池收入，年取计入公积金池支出（不计入日常收支）。\n请按实际修改以下示例数据。",
+  "monthly_contributions": [
+    {
+      "name": "示例公积金月缴",
+      "counterparty": "公积金中心",
+      "product_desc": "公积金月缴",
+      "amount_per_month": 0,
+      "start": "2025-01",
+      "end": "2025-12",
+      "source_system": "公积金"
+    }
+  ]
+}
