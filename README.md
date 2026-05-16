@@ -3,7 +3,8 @@
 一个将微信、支付宝、银行卡的账单合并为标准化的 JSON 数据的工具，支持消费分类、统计分析和可视化仪表盘。
 
 将微信、支付宝、银行卡的账单合并为标准化的 JSON 数据，支持消费分类、统计分析。
-<img width="2520" height="1425" alt="image" src="https://github.com/user-attachments/assets/43681834-bd6d-484d-8b48-d6beca51bf1a" />
+<img width="1506" height="844" alt="image" src="https://github.com/user-attachments/assets/4f0980d1-1614-4a54-91f6-e170ca713fad" />
+
 
 <img width="2495" height="1315" alt="image" src="https://github.com/user-attachments/assets/d3cdad6c-2dd3-4ab6-bebd-b002d4dd630a" />
 
